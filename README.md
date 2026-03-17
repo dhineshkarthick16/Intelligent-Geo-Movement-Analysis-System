@@ -116,10 +116,10 @@ GPS Device → Data Stream → Processing Engine → Spatial Database → Web Da
 ## 🔹 👨‍💻 Team NovaX
 
 * Dhinesh Karthick D
-* Prithish S
 * Saiprasath P
+* Eswarnath Jeyaram
 * Simon Jaques Mascarenhas J
-* Eswarnath J
+* Prithish S
 
 ---
 
